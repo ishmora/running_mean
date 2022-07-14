@@ -2,6 +2,7 @@
 This program reads stdin from a file containing a list of numbers
 For each item in the list, the program calculates and prints out the estimate of
 the running mean, running standard deviation, and running median
+Test out github a bit...
 '''
 
 import numpy as np
